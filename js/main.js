@@ -39,4 +39,6 @@ $(document).ready(function () {
         }, 2000)
     })
 
+    //animation aos
+    AOS.init();
 });
